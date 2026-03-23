@@ -1,0 +1,41 @@
+名称, 购买链接, 单价,所属类别, 数量,总额, 描述, 型号
+4067,https://detail.tmall.com/item.htm?_u=f202183fbd71d4&id=692645144312&spm=a1z09.2.0.0.53802e8dpcbRg8,1.37,"IC, 子板元件",1,1.37,16个按钮的i/o拓展ic,CD74HC4067M96 SOIC-24
+mcp23017,https://item.taobao.com/item.htm?_u=f202183fbd3312&id=755560235410&spm=a1z09.2.0.0.53802e8dpcbRg8,5.1,"IC, 子板元件",1,5.1,8个encoder的拓展ic,MCP23017-E/SO 贴片 SOP-28
+max7219,https://item.taobao.com/item.htm?_u=f202183fbd1c23&id=615828078210&spm=a1z09.2.0.0.53802e8dpcbRg8&skuId=4900726339770,1.1,"IC, 子板元件",1,1.1,4个16led的ec11灯环,MAX7219CWG SOP24
+tb6612fng,https://item.taobao.com/item.htm?_u=f202183fbde8af&id=607254624071&spm=a1z09.2.0.0.53802e8dpcbRg8&skuId=5205675671358,7,"主板元件, 元件模块",2,14,电动推子驱动ic,TB6612FNG
+FFC/FPC连接件,https://detail.tmall.com/item.htm?_u=f202183fbda82a&id=626563665786&spm=a1z09.2.0.0.53802e8dpcbRg8,0.2,"主板元件, 子板元件",2,0.4,子主板连接部件,FFC/FPC 1.0mm-14P-翻盖下接
+ws2812_RGBLED,https://item.taobao.com/item.htm?_u=f202183fbdb778&id=733895338208&spm=a1z09.2.0.0.53802e8dpcbRg8,0.08,子板元件,4,0.32,rgbled,ws2812b_1210
+电容电阻等,,,"PCB小元件, 主板元件, 子板元件",,0,4MΩ 100nf 10uf 10k贴片电阻,
+10k贴片电阻,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=739043743825&_u=f202183fbdcd3e,0.15,"PCB小元件, 主板元件, 子板元件",13,1.95,侧边ec11、子板ec11旋钮的AB引脚上拉电阻,10K （一件100只）精度：1%精度阻值：0805贴片电阻
+0.1uf贴片电容,https://detail.tmall.com/item.htm?_u=f202183fbdccdb&id=744920698405&spm=a1z09.2.0.0.53802e8dpcbRg8,0.03,"PCB小元件, 子板元件",5,0.15,max7219、rgbled滤波,0805 100NF 0.1UF 10% 25V 50个
+10uf贴片电容,https://detail.tmall.com/item.htm?_u=f202183fbd6e30&id=19327803085&spm=a1z09.2.0.0.53802e8dpcbRg8,0.256,"PCB小元件, 子板元件",1,0.256,max7219滤波,25V 10UF 体积4*5.4mm
+400uf电解电容,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=611726699981&_u=f202183fbd1568,0.129,"PCB小元件, 主板元件",2,0.258,电动推子读值滤波,直插25V 470UF 体积8X12
+4.3MΩdip电阻,https://item.taobao.com/item.htm?_u=f202183fbd3981&id=657636293268&spm=a1z09.2.0.0.53802e8dpcbRg8,0.029,"PCB小元件, 主板元件",4,0.116,电动推子电容感应电路电阻,4.3M数量：1/4W 1%（100只）
+0.1ufdip电容,https://item.taobao.com/item.htm?_u=f202183fbdc7b7&id=560981290395&spm=a1z09.2.0.0.53802e8dpcbRg8,0.03,"PCB小元件, 主板元件",7,0.21,电动推子模拟输入口滤波,瓷片电容 104 0.1uF 100NF 50V
+电动推子,https://item.taobao.com/item.htm?_u=f202183fbd6603&id=565414327389&skuId=5187797482224&spm=a1z09.2.0.0.53802e8dpcbRg8,35,主板元件,4,140,电动推子,日本推子雅马哈m7clls9电位器RSA0N11M9A0J
+EC11,https://item.taobao.com/item.htm?_u=f202183fbdef1d&id=770659040644&spm=a1z09.2.0.0.53802e8dpcbRg8,1.5,子板元件,4,6,旋钮,插件-薄型半圆D柄15长[带开关]脉冲定位：15脉冲30定位
+侧边EC11,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=655360561536&_u=f202183fbd7c99,2.3,主板元件,1,2.3,侧边翻页旋钮,柄长=20mm轴型：半圆轴脉冲定位：15脉冲30位正向
+3vto5v,https://detail.tmall.com/item.htm?_u=s202183fbd09cc&id=674616282888&spm=a1z09.2.0.0.f05f2e8d9XiBlQ,8.55,主板元件,1,8.55,电压转化,无针0.7-5V转5V
+ESP32S3,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=718248966902&_u=f202183fbd6cbc,27,"主板元件, 单片机",1,27,主芯片,ESP32-S3-N16R8（Type-c接口 已焊排针）
+ESP32S2,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=620692837143&_u=f202183fbd0ad7,22.73,"主板元件, 单片机",1,22.73,负责处理mcp连接的ec11并与主芯片ESP32S3 i2c通讯,ESP-32开发板已焊接（CP2102）
+arduino nano,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=646953465886&_u=f202183fbd0be2,11.4,"主板元件, 单片机",1,11.4,负责处理电动推子,nano V3.0 Atmega328P开发板
+led导光柱,https://trade.1688.com/order/buyer_order_list.htm?_input_charset=utf-8&isBuyer=true&startDate=&startHour=00&startMinute=00&endDate=&endHour=23&endMinute=59&isShowMore=&quickDateSearchHit=&page=&pageSize=&source=&sceneType=&keywords=%E5%AF%BC%E5%85%89&keywordsType=&receiverName=&sellerLoginId=&tradeStatus=&bizTypeSearch=&tradeTypeSearch=&receiverTel=&companyName=&buyerName=&purchaseCompanyName=&totalFee=&downStreamOrderId=&batchNumber=&submitSearch=,0.23,配件,64,14.72,LDT2.0导光柱2mm板孔透光柱 草帽灯导光柱,LDT2.0-9.5
+硅胶按钮,https://item.taobao.com/item.htm?_u=f202183fbd39aa&id=601951354876&spm=a1z09.2.0.0.53802e8dpcbRg8&skuId=5065731458263,1.5,配件,4,6,硅胶导电按钮，需要注意导电片的清洁,导电胶电子开关橡胶按键帽现货HJ60
+电动推子导电帽,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=568927718232&_u=f202183fbdf6e3,9,配件,4,36,导电推子帽,MA2控台2色选
+EC11帽,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=709758245843&_u=f202183fbd8e55,0.5,配件,8,4,12X18mm黑色[D型半轴]旋钮帽,12X18mm黑色[D型半轴]
+侧边旋钮帽,https://item.taobao.com/item.htm?_u=e202183fbd0adb&id=566707705482&spm=a1z09.2.0.0.4a612e8dyv1X5v,11.21,配件,1,11.21,侧边翻页旋钮帽,圆鼓型银色35x20x6小圆标
+3d打印外壳,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=740929972228&_u=f202183fbdbb9a,30,外壳面板,1,30,黑色 ABS 淘宝下单,ABS 黑色
+面板定制铝合金顶面板,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=610352053418&_u=f202183fbd9fca,10,外壳面板,1,10,2mm 淘宝大批量下单,铝合金面板定制
+主板pcb,嘉立创,2,PCB,1,2,主板,4fader_main_v2
+子板pcb,嘉立创,2,PCB,1,2,子板,4fader_Sub_v2
+FFC/FPC线,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dTWQTVr&id=555563074622&_u=f202183fbdc1af,3,线材,1,3,200mm 15p 0.5mm,14Pin（10条）间距：1．0mm方向：反向/B型长度：10厘米（100mm）
+USBC公转USBB母线,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dTWQTVr&id=717578689881&_u=f202183fbd1eae,5,线材,1,5,连接ESP32S3 OTG usbc接口转至usbb,打印母USB2.0转Type-c公头连接线 打印方口B母带螺丝可固定数据线
+USBB线,https://detail.1688.com/offer/841248184260.html?spm=a26352.13672862.offerlist.23.5ab71e62roLvbN&cosite=-&tracelog=p4p&_p_isad=1&clickid=37049c440a0941a7a2a0887a10d086d6&sessionid=9eb09118ae155a6c54abbcacdcf573bb,1.1,线材,1,1.1,usbb连接电脑midi线,黑色方口铜芯打印机连接线 USB2.0打印线扫描仪1.2米
+9VDC线,https://detail.1688.com/offer/751129188813.html?spm=a360q.8274423.0.0.76354c9atedfFn,5,线材,1,5,9V电动推子供电电源线,适配器9V1A DC5.5*2.5/2.1【388壳】
+固定螺丝,,,零件,,0,,
+M3*26,https://detail.1688.com/offer/706866952813.html?spm=a360q.8274423.0.0.76354c9atedfFn,0.23,零件,2,0.46,主板双通螺栓支柱2个,M3*26
+M3*9,https://detail.1688.com/offer/706866952813.html?spm=a360q.8274423.0.0.76354c9atedfFn,0.08,零件,2,0.16,子板双通螺栓支柱2个,M3*9
+M3*7+6,https://detail.1688.com/offer/707751582992.html?spm=a360q.8274423.0.0.76354c9atedfFn,0.1,零件,4,0.4,主板单头螺栓柱4个,M3*7+6
+M3*24+4,https://detail.1688.com/offer/707751582992.html?spm=a360q.8274423.0.0.76354c9atedfFn,0.26,零件,4,1.04,子板单头螺栓柱4个,M3*24+4
+M3螺母,https://detail.1688.com/offer/708874590991.html?spm=a360q.8274423.0.0.76354c9atedfFn,0.03,零件,4,0.12,子主板螺母各2共4个,304不锈钢螺帽六角薄螺母锁紧螺丝帽M3
+M3*5螺丝,https://detail.1688.com/offer/710364219126.html?spm=a360q.8274423.0.0.76354c9atedfFn,0.02,零件,12,0.24,底面8顶面4共12个螺丝,304不锈钢十字平头螺丝KM沉头机螺钉M3*5

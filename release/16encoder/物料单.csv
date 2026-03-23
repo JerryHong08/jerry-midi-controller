@@ -1,0 +1,19 @@
+名称, 购买链接,所属类别, 数量, 单价,总额, 描述, 型号
+4067,https://detail.tmall.com/item.htm?_u=f202183fbd71d4&id=692645144312&spm=a1z09.2.0.0.53802e8dpcbRg8,"IC, 子板元件",1,1.37,1.37,16个按钮的i/o拓展ic,CD74HC4067M96 SOIC-24
+mcp23017,https://item.taobao.com/item.htm?_u=f202183fbd3312&id=755560235410&spm=a1z09.2.0.0.53802e8dpcbRg8,"IC, 子板元件",2,5.1,10.2,8个encoder的拓展ic,MCP23017-E/SO 贴片 SOP-28
+max7219,https://item.taobao.com/item.htm?_u=f202183fbd1c23&id=615828078210&spm=a1z09.2.0.0.53802e8dpcbRg8&skuId=4900726339770,"IC, 子板元件",4,1.1,4.4,4个16led的ec11灯环,MAX7219CWG SOP24
+电容电阻等,,"PCB小元件, 主板元件, 子板元件",,,0,100nf 10uf 10k贴片电阻,
+10k贴片电阻,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=739043743825&_u=f202183fbdcd3e,"PCB小元件, 主板元件, 子板元件",40,0.15,6,侧边ec11、子板ec11旋钮的AB引脚上拉电阻,10K （一件100只）精度：1%精度阻值：0805贴片电阻
+0.1uf贴片电容,https://detail.tmall.com/item.htm?_u=f202183fbdccdb&id=744920698405&spm=a1z09.2.0.0.53802e8dpcbRg8,"PCB小元件, 子板元件",7,0.03,0.21,max7219、rgbled滤波,0805 100NF 0.1UF 10% 25V 50个
+10uf贴片电容,https://detail.tmall.com/item.htm?_u=f202183fbd6e30&id=19327803085&spm=a1z09.2.0.0.53802e8dpcbRg8,"PCB小元件, 子板元件",4,0.256,1.024,max7219滤波,25V 10UF 体积4*5.4mm
+EC11,https://item.taobao.com/item.htm?_u=f202183fbdef1d&id=770659040644&spm=a1z09.2.0.0.53802e8dpcbRg8,子板元件,17,1.5,25.5,旋钮,插件-薄型半圆D柄15长[带开关]脉冲定位：15脉冲30定位
+ESP32S3,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=718248966902&_u=f202183fbd6cbc,"主板元件, 单片机",1,27,27,主芯片,ESP32-S3-N16R8（Type-c接口 已焊排针）
+ESP32S2,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=620692837143&_u=f202183fbd0ad7,"主板元件, 单片机",1,22.73,22.73,负责处理mcp连接的ec11并与主芯片ESP32S3 i2c通讯,ESP-32开发板已焊接（CP2102）
+led导光柱,,配件,256,0.23,58.88,,
+EC11帽,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=709758245843&_u=f202183fbd8e55,配件,16,0.5,8,11.3X11mm灰色 D型半轴,11.3X11mm灰色 D型半轴
+侧边旋钮帽,https://item.taobao.com/item.htm?_u=e202183fbd0adb&id=566707705482&spm=a1z09.2.0.0.4a612e8dyv1X5v,配件,1,11.21,11.21,侧边翻页旋钮帽,圆鼓型银色35x20x6小圆标
+3d打印外壳,https://item.taobao.com/item.htm?spm=a1z09.2.0.0.53802e8dpcbRg8&id=740929972228&_u=f202183fbdbb9a,外壳面板,1,43,43,黑色 ABS 淘宝下单,ABS 黑色
+主板pcb,嘉立创,PCB,1,13,13,主板,16encoder
+type c线,,线材,1,1.1,1.1,type c数据线,type c
+固定螺丝,,零件,,,0,,
+M2*5螺丝,https://detail.1688.com/offer/710364219126.html?spm=a360q.8274423.0.0.76354c9atedfFn,零件,12,0.02,0.24,底面4个自攻螺丝,304不锈钢十字平头螺丝KM沉头机螺钉M3*5
