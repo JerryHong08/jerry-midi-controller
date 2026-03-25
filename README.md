@@ -2,9 +2,7 @@
 
 > 归档一个从零到一的多通道 MIDI 控制器开源硬件项目
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**项目文档**: [完整制作教程与技术分析](https://your-blog-url.com/midi-controller) <!-- 替换为你的 blog 链接 -->
+**项目文档**: [完整制作教程与技术分析](https://jerryhong08.github.io/)
 
 ---
 
@@ -33,7 +31,7 @@
 - 编码器从板（ESP32-S2）处理旋转输入
 - I2C 总线连接，可扩展至 15+ 通道
 
-<img src="./midi-controller/assets/images/4motor_channel_product_01.jpg" width="48%" style="vertical-align: middle;" alt="4路电动推子版实物"> <img src="./midi-controller/assets/images/4motor_channel_render_01.png" width="48%" style="vertical-align: middle;" alt="4路电动推子版渲染图">
+<img src="./assets/4motor_channel_product_01.jpg" width="48%" style="vertical-align: middle;" alt="4路电动推子版实物"> <img src="./assets/4motor_channel_render_01.png" width="48%" style="vertical-align: middle;" alt="4路电动推子版渲染图">
 
 ### 16 路旋转编码器版
 
@@ -53,7 +51,7 @@
 - MCP23017 × 2 扩展 32 路 GPIO
 - 4 片 MAX7219 级联驱动 256 颗 LED
 
-<img src="./midi-controller/assets/images/16knob_render_01.png" width="48%" style="vertical-align: middle;" alt="16旋转编码器版渲染图"> <img src="./midi-controller/assets/images/16knob_product_01.jpg" width="48%" style="vertical-align: middle;" alt="16旋转编码器版实物">
+<img src="./assets/16knob_render_01.png" width="48%" style="vertical-align: middle;" alt="16旋转编码器版渲染图"> <img src="./assets/16knob_product_01.jpg" width="48%" style="vertical-align: middle;" alt="16旋转编码器版实物">
 
 ---
 
@@ -105,15 +103,6 @@ release/
 - **速度自适应**：快速旋转时自动增加步进值
 - **LED 位置指示**：16 颗 LED 组成环形，直观显示当前值
 - **零延迟反馈**：I2C 从板专门处理编码器中断，主控零负担
-
-### 可扩展架构
-
-```mermaid
-flowchart LR
-    Master[ESP32-S3<br/>Master] -->|I2C| Slave1[推子从板<br/>Address 0x08]
-    Master -->|I2C| Slave2[编码器从板<br/>Address 0x09]
-    Master -->|I2C| Slave3[更多从板...<br/>可扩展]
-```
 
 ---
 
@@ -213,20 +202,6 @@ flowchart TB
     I2C16 <-->|读取按钮| Mux16
     I2C16 <-->|分页控制| PageEnc16
 ```
-
----
-
-## 仓库引用
-
-- **制作教程**：详细的焊接、烧录、调试步骤见 [Blog 文章](https://your-blog-url.com/midi-controller)
-- **原理详解**：PID 算法、MIDI 协议、I2C 通信等技术分析见 [Blog 文章](https://your-blog-url.com/midi-controller)
-
----
-
-## 许可
-
-MIT License - 可自由用于个人或商业项目，修改后分发请注明原作者。
-
 ---
 
 *本项目为个人学习与作品展示用途，不提供售后支持。DIY 有风险，焊接需谨慎。*
